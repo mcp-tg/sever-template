@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "TG",
+      "email": "tg.gmail.com"
+    },
+    {
+      "name": "HJ",
+      "email": "hj@gmail.com"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob.smith@gmail.com"
+    },
+    {
+      "name": "Carol Davis",
+      "email": "carol.davis@company.org"
+    },
+    {
+      "name": "David Wilson",
+      "email": "david.wilson@university.edu"
+    },
+    {
+      "name": "Emma Brown",
+      "email": "emma.brown@startup.io"
+    },
+    {
+      "name": "Frank Miller",
+      "email": "frank.miller@example.com"
+    },
+    {
+      "name": "Grace Lee",
+      "email": "grace.lee@tech.com"
+    },
+    {
+      "name": "Henry Garcia",
+      "email": "henry.garcia@corp.net"
+    }
+  ]
+}
